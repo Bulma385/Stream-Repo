@@ -20,3 +20,11 @@ Flamingo
 
 Pytorch Forum
 https://discuss.pytorch.org/
+
+
+
+
+
+Anschauen:
+XGBoost library
+SQL cloud skills? applied?
